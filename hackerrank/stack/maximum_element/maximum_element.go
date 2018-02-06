@@ -1,4 +1,4 @@
-package hackerrank
+package maximum_element
 
 import (
 	"bufio"
