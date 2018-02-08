@@ -1,4 +1,4 @@
-package main
+package simple_text_editor
 
 import (
 	"testing"
