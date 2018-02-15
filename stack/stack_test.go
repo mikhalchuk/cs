@@ -91,9 +91,7 @@ func TestStack_FIFO(t *testing.T) {
 		}
 	}
 
-	stack := &StackList{}
-	f(stack)
-	//run(f)
+	run(f)
 }
 
 func TestStack_PeekStackIsEmpty(t *testing.T) {
